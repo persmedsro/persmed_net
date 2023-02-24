@@ -1,0 +1,4 @@
+Sitemap: https://www.persmed.net/sitemapindex.xml
+
+User-Agent: *
+Host: www.persmed.net
